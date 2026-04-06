@@ -1,0 +1,7 @@
+﻿services:
+  aws-private-s3-uplink:
+    image: aws-private-s3-uplink
+    build:
+      context: .
+      dockerfile: aws-private-s3-uplink/Dockerfile
+

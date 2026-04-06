@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1PkQ4vSI8qVOVhK4lB9GDRXBD25DSqdOI6SxcGMdM/4=",
+  "Source": "aws-private-s3-uplink",
+  "BasePath": "_content/aws-private-s3-uplink",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

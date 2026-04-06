@@ -1,0 +1,6 @@
+@aws_private_s3_uplink_HostAddress = http://localhost:5198
+
+GET {{aws_private_s3_uplink_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
