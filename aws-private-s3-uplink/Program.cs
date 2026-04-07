@@ -26,7 +26,7 @@ var app = builder.Build();
 // Habilitando o uso da política de CORS
 app.UseCors("AllowAll");
 
-if (app.Environment.IsDevelopment())
+
 {
     app.UseSwagger();
     app.UseSwaggerUI();

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YGlNikM7Cgk=",
+  "dgSpecHash": "wvGId3BQh0Y=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
+  "projectFilePath": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sindauto\\.nuget\\packages\\awssdk.core\\3.7.300\\awssdk.core.3.7.300.nupkg.sha512",
     "C:\\Users\\Sindauto\\.nuget\\packages\\awssdk.extensions.netcore.setup\\3.7.0\\awssdk.extensions.netcore.setup.3.7.0.nupkg.sha512",
@@ -25,9 +25,9 @@
       "code": "NU1603",
       "level": "Warning",
       "message": "aws-private-s3-uplink depends on AWSSDK.Extensions.NETCore.Setup (>= 3.3.300) but AWSSDK.Extensions.NETCore.Setup 3.3.300 was not found. AWSSDK.Extensions.NETCore.Setup 3.7.0 was resolved instead.",
-      "projectPath": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
+      "projectPath": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
       "warningLevel": 1,
-      "filePath": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
+      "filePath": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
       "libraryId": "AWSSDK.Extensions.NETCore.Setup",
       "targetGraphs": [
         "net8.0"

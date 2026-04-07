@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aws-private-s3-uplink")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9c3c78b942c58d6d7e2bc3891decbf66cd34d99")]
 [assembly: System.Reflection.AssemblyProductAttribute("aws-private-s3-uplink")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aws-private-s3-uplink")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

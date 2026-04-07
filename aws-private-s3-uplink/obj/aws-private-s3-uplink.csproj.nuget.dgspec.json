@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj": {}
+    "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj": {
+    "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
+        "projectUniqueName": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
         "projectName": "aws-private-s3-uplink",
-        "projectPath": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
+        "projectPath": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\aws-private-s3-uplink.csproj",
         "packagesPath": "C:\\Users\\Sindauto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sindauto\\Desktop\\SindRelatorios\\aws-private-s3-uplink\\aws-private-s3-uplink\\obj\\",
+        "outputPath": "C:\\Users\\Sindauto\\Desktop\\aws-private-s3-uplink\\aws-private-s3-uplink\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
