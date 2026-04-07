@@ -52,7 +52,7 @@ A solução segue padrões de segurança utilizados em ambientes corporativos:
 
 ## 📸 Demonstração
 
-![Swagger UI](./Img/swagger_print.png)
+![Swagger UI](./ImgImg/RetornoDaApi.png)
 
 ---
 
